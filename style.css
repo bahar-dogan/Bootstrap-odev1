@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #E9ECEF;
+}
+
+header {
+      text-align: center;
+}
+.jumbotron , article {
+    text-align: center;
+}
+span {
+    color:white;
+    background-color: rgb(75, 73, 73);
+    border-radius: 0.20em;
+}
+h1 {
+    color:crimson;
+}
+h2 , h5 {
+    color:blueviolet;
+}
+
+h3 {
+    color: orange;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.nav-link {
+    color: white;
+}
+
+img {
+    width: 19em;
+    height: 25em;
+}
+.card {
+    margin-top: 1em;
+}
