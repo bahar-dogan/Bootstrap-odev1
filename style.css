@@ -4,7 +4,7 @@ body {
     background-color: #E9ECEF;
 }
 
-header {
+header , .card-header {
       text-align: center;
 }
 .jumbotron , article {
